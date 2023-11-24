@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian/未命名.md",
+                "file": "obsidian/代理.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian/未命名.md",
+                "file": "obsidian/代理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian/未命名.md",
+                "file": "obsidian/代理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian/未命名.md"
+                "file": "obsidian/代理.md"
               }
             }
           }
@@ -133,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,13 +147,13 @@
   },
   "active": "b0ad436529980cb6",
   "lastOpenFiles": [
-    "obsidian/源代码编译.md",
-    "obsidian/ARM汇编语言.md",
-    "obsidian/未命名.md",
-    "obsidian/代理.md",
-    "obsidian/LINUX Kernal.md",
-    "obsidian/iPad使用clash.md",
     "obsidian/clash.md",
+    "obsidian/iPad使用clash.md",
+    "obsidian/ARM汇编语言.md",
+    "obsidian/源代码编译.md",
+    "obsidian/代理.md",
+    "obsidian/未命名.md",
+    "obsidian/LINUX Kernal.md",
     "obsidian",
     "我超棒的远程仓库/源代码编译.md",
     "我超棒的远程仓库/未命名.md",
