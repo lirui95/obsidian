@@ -1,12 +1,4 @@
 {
-  "obsidian-git:push2": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": " "
-    }
-  ],
   "obsidian-git:add-to-gitignore": [
     {
       "modifiers": [
@@ -21,6 +13,14 @@
         "Mod"
       ],
       "key": "ArrowUp"
+    }
+  ],
+  "obsidian-git:push2": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "ArrowDown"
     }
   ]
 }
