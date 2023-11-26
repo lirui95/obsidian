@@ -1,12 +1,4 @@
 {
-  "obsidian-git:commit": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "ArrowDown"
-    }
-  ],
   "obsidian-git:push2": [
     {
       "modifiers": [
@@ -21,6 +13,14 @@
         "Mod"
       ],
       "key": "ArrowRight"
+    }
+  ],
+  "obsidian-git:commit-specified-message": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "ArrowUp"
     }
   ]
 }
