@@ -18,41 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f078f51bd43fa2e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obsidian/代理.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0804297cabe5d700",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "194922f9c94877cc",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.md",
+                "file": "obsidian/代理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名.md",
+                "file": "obsidian/代理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.md"
+                "file": "obsidian/代理.md"
               }
             }
           }
@@ -178,11 +145,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0804297cabe5d700",
+  "active": "f2a5fa872d80cdba",
   "lastOpenFiles": [
-    "obsidian/ISP下载.md",
     "未命名.md",
     "obsidian/代理.md",
+    "obsidian/未命名.md",
+    "obsidian/ISP下载.md",
     "obsidian/keil.md",
     "obsidian/LINUX Kernal.md",
     "obsidian/iPad使用clash.md",
@@ -190,7 +158,6 @@
     "obsidian/clash.md",
     "obsidian/Keil error.md",
     "obsidian/ARM汇编语言.md",
-    "obsidian/未命名.md",
     "obsidian",
     "我超棒的远程仓库/源代码编译.md",
     "我超棒的远程仓库/未命名.md",
