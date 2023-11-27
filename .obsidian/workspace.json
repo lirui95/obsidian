@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian/计算机文件系统.md",
+                "file": "obsidian/keil.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian/计算机文件系统.md",
+                "file": "obsidian/keil.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian/计算机文件系统.md",
+                "file": "obsidian/keil.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian/计算机文件系统.md"
+                "file": "obsidian/keil.md"
               }
             }
           }
@@ -133,7 +133,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,19 +148,19 @@
   },
   "active": "0eee392184504e47",
   "lastOpenFiles": [
+    "obsidian/Keil error.md",
+    "obsidian/keil.md",
+    "obsidian/计算机文件系统.md",
     "obsidian/LINUX文件系统.md",
     "obsidian/未命名.md",
-    "obsidian/计算机文件系统.md",
     "obsidian/代理.md",
     "obsidian/LINUX.md",
     "未命名.md",
     "obsidian/ISP下载.md",
-    "obsidian/keil.md",
     "obsidian/LINUX Kernal.md",
     "obsidian/iPad使用clash.md",
     "obsidian/源代码编译.md",
     "obsidian/clash.md",
-    "obsidian/Keil error.md",
     "obsidian/ARM汇编语言.md",
     "obsidian",
     "我超棒的远程仓库/源代码编译.md",
