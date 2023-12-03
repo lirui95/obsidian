@@ -11,8 +11,12 @@
             "id": "1800babad29fa89f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "obsidian/计算机.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "obsidian/计算机.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "obsidian/计算机.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "obsidian/计算机.md"
+              }
             }
           }
         ]
@@ -140,6 +148,8 @@
   },
   "active": "1800babad29fa89f",
   "lastOpenFiles": [
+    "obsidian/计算机文件系统.md",
+    "obsidian/计算机.md",
     "obsidian/软路由.md",
     "obsidian/LINUX文件系统.md",
     "obsidian/LINUX Kernal.md",
@@ -148,7 +158,6 @@
     "obsidian/Keil error.md",
     "obsidian/ARM汇编语言.md",
     "obsidian/源代码编译.md",
-    "obsidian/计算机文件系统.md",
     "obsidian/代理.md",
     "obsidian/iPad使用clash.md",
     "obsidian/ISP下载.md",
@@ -168,7 +177,6 @@
     "代理.md",
     "我超棒的远程仓库/obsidian/源代码编译.md",
     "我超棒的远程仓库/obsidian/代理.md",
-    "我超棒的远程仓库/obsidian/未命名.md",
     "我超棒的远程仓库/obsidian",
     "我超棒的远程仓库",
     "·",
