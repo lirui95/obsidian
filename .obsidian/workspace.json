@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "225903c71e96466b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidian/Visual S.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian/软路由.md",
+                "file": "obsidian/Visual S.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian/软路由.md",
+                "file": "obsidian/Visual S.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian/软路由.md"
+                "file": "obsidian/Visual S.md"
               }
             }
           }
@@ -146,11 +159,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1800babad29fa89f",
+  "active": "225903c71e96466b",
   "lastOpenFiles": [
+    "obsidian/软路由.md",
+    "obsidian/Visual S.md",
     "obsidian/计算机文件系统.md",
     "obsidian/计算机.md",
-    "obsidian/软路由.md",
     "obsidian/LINUX文件系统.md",
     "obsidian/LINUX Kernal.md",
     "obsidian/LINUX.md",
@@ -176,7 +190,6 @@
     "未命名",
     "代理.md",
     "我超棒的远程仓库/obsidian/源代码编译.md",
-    "我超棒的远程仓库/obsidian/代理.md",
     "我超棒的远程仓库/obsidian",
     "我超棒的远程仓库",
     "·",
