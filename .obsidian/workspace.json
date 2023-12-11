@@ -8,27 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b5798158b1db5e64",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "487e2057dcec5ee9",
+            "id": "b7c4cebbc4e5ec9e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "防火墙.md",
+                "file": "obsidian/防火墙.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "防火墙.md",
+                "file": "obsidian/防火墙.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "防火墙.md",
+                "file": "obsidian/防火墙.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "防火墙.md"
+                "file": "obsidian/防火墙.md"
               }
             }
           }
@@ -155,13 +146,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "487e2057dcec5ee9",
+  "active": "b7c4cebbc4e5ec9e",
   "lastOpenFiles": [
+    "obsidian/Visual S.md",
+    "obsidian/防火墙.md",
     "防火墙.md",
     "obsidian/计算机.md",
     "obsidian/计算机文件系统.md",
     "obsidian/代理.md",
-    "obsidian/Visual S.md",
     "obsidian/软路由.md",
     "obsidian/LINUX文件系统.md",
     "obsidian/LINUX Kernal.md",
@@ -185,7 +177,6 @@
     "未命名 1",
     "未命名",
     "代理.md",
-    "我超棒的远程仓库/obsidian/源代码编译.md",
     "我超棒的远程仓库/obsidian",
     "我超棒的远程仓库",
     "·",
