@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian/防火墙.md",
+                "file": "obsidian/keil.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian/防火墙.md",
+                "file": "obsidian/keil.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian/防火墙.md",
+                "file": "obsidian/keil.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian/防火墙.md"
+                "file": "obsidian/keil.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "b7c4cebbc4e5ec9e",
   "lastOpenFiles": [
-    "obsidian/Visual S.md",
     "obsidian/防火墙.md",
+    "obsidian/问题.md",
+    "obsidian/keil.md",
+    "obsidian/Visual S.md",
     "防火墙.md",
     "obsidian/计算机.md",
     "obsidian/计算机文件系统.md",
@@ -158,7 +160,6 @@
     "obsidian/LINUX文件系统.md",
     "obsidian/LINUX Kernal.md",
     "obsidian/LINUX.md",
-    "obsidian/keil.md",
     "obsidian/Keil error.md",
     "obsidian/ARM汇编语言.md",
     "obsidian/源代码编译.md",
@@ -176,7 +177,6 @@
     "源代码编译.md",
     "未命名 1",
     "未命名",
-    "代理.md",
     "我超棒的远程仓库/obsidian",
     "我超棒的远程仓库",
     "·",
