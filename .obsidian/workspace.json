@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian/keil.md",
+                "file": "obsidian/Keil error.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian/keil.md",
+                "file": "obsidian/Keil error.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian/keil.md",
+                "file": "obsidian/Keil error.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian/keil.md"
+                "file": "obsidian/Keil error.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "b7c4cebbc4e5ec9e",
   "lastOpenFiles": [
+    "obsidian/keil.md",
     "obsidian/防火墙.md",
     "obsidian/问题.md",
-    "obsidian/keil.md",
     "obsidian/Visual S.md",
     "防火墙.md",
     "obsidian/计算机.md",
