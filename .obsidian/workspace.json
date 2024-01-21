@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian/LINUX.md",
+                "file": "obsidian/代理.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian/LINUX.md",
+                "file": "obsidian/代理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian/LINUX.md",
+                "file": "obsidian/代理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian/LINUX.md"
+                "file": "obsidian/代理.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "b7c4cebbc4e5ec9e",
   "lastOpenFiles": [
-    "obsidian/Keil error.md",
     "obsidian/LINUX.md",
+    "obsidian/Keil error.md",
     "obsidian/LINUX Kernal.md",
     "obsidian/keil.md",
     "obsidian/防火墙.md",
