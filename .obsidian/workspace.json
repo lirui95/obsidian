@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian/Visual S.md",
+                "file": "开发语言学习/HTML.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian/Visual S.md",
+                "file": "开发语言学习/HTML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian/Visual S.md",
+                "file": "开发语言学习/HTML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian/Visual S.md"
+                "file": "开发语言学习/HTML.md"
               }
             }
           }
@@ -148,6 +148,9 @@
   },
   "active": "b7c4cebbc4e5ec9e",
   "lastOpenFiles": [
+    "obsidian/Visual S.md",
+    "开发语言学习/HTML.md",
+    "开发语言学习",
     "obsidian/代理.md",
     "obsidian/LINUX.md",
     "obsidian/Keil error.md",
@@ -155,7 +158,6 @@
     "obsidian/keil.md",
     "obsidian/防火墙.md",
     "obsidian/问题.md",
-    "obsidian/Visual S.md",
     "防火墙.md",
     "obsidian/计算机.md",
     "obsidian/计算机文件系统.md",
@@ -174,9 +176,7 @@
     "我超棒的远程仓库/iPad使用clash.md",
     "我超棒的远程仓库/clash.md",
     "我超棒的远程仓库/ARM汇编语言.md",
-    "源代码编译.md",
     "未命名 1",
-    "未命名",
     "我超棒的远程仓库/obsidian",
     "我超棒的远程仓库",
     "·",
