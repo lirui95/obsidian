@@ -113,3 +113,11 @@ HTML超链接  超链接的几种形式
 	<a href="url">链接文本</a>
 
 **HTML头部**
+<link>
+
+<head>
+<title>
+<base>
+<style>
+<meta>
+<script>
