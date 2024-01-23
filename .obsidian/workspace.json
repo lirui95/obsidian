@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian/代理.md",
+                "file": "obsidian/Visual S.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian/代理.md",
+                "file": "obsidian/Visual S.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian/代理.md",
+                "file": "obsidian/Visual S.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian/代理.md"
+                "file": "obsidian/Visual S.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "b7c4cebbc4e5ec9e",
   "lastOpenFiles": [
+    "obsidian/代理.md",
     "obsidian/LINUX.md",
     "obsidian/Keil error.md",
     "obsidian/LINUX Kernal.md",
@@ -158,7 +159,6 @@
     "防火墙.md",
     "obsidian/计算机.md",
     "obsidian/计算机文件系统.md",
-    "obsidian/代理.md",
     "obsidian/软路由.md",
     "obsidian/LINUX文件系统.md",
     "obsidian/ARM汇编语言.md",
