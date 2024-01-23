@@ -73,4 +73,26 @@ HTML 引文, 引用, 及标签定义
 	当显示页面时，浏览器会移除源代码中多余的空格和空行。所有连续的空格或空行都会被算作一个空格。需要注意的是，HTML 代码中的所有连续的空行（换行）也被显示为一个空格。
 
 
+链接格式 
 <a href="https://www.runoob.com/">访问菜鸟教程</a>
+
+HTML超链接  超链接的几种形式 
+
+- 链接形式 <b>使用
+- <a href="url">链接文本</a>
+- 
+- 文本链接 <将文本转换为可点击链接>
+- <a href="https://www.example.com">访问示例网站</a>
+- 
+- 图像链接 
+- <a href="https://www.example.com">
+		  <img src="example.jpg" alt="示例图片">
+		  </a>
+		  
+-锚点链接 
+<a href="#section2">跳转到第二部分</a> 需要在目标位置使用<a>元素定义标记 并用#引用
+		<!-- 在页面中的某个位置 -->
+		<a name="section2"></a>
+		
+-下载链接  <使用download属性>
+<a href="document.pdf" download>下载文档</a>  
