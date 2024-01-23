@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 369.5
   },
   "right": {
     "id": "5f904336dcebac67",
@@ -148,9 +148,10 @@
   },
   "active": "b7c4cebbc4e5ec9e",
   "lastOpenFiles": [
+    "开发语言学习/未命名.md",
+    "开发语言学习/HTML.md",
     "开发语言学习/Pasted image 20240123195751.png",
     "obsidian/Visual S.md",
-    "开发语言学习/HTML.md",
     "开发语言学习",
     "obsidian/代理.md",
     "obsidian/LINUX.md",
