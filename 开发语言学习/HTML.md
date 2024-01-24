@@ -125,6 +125,9 @@ HTML head 元素
 
 **HTML 样式CSS**
 
-CSS (Cascading Style Sheets) 用于渲染HTML元素标签的样式
-使用方式：内联、内部样式、外部引用；
-example：样式属性、字体、
+*CSS (Cascading Style Sheets) 用于渲染HTML元素标签的样式*
+*使用方式：内联、内部样式、外部引用；*
+*example：样式属性、字体*
+
+HTML图像 
+
