@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 369.5
+    "width": 200
   },
   "right": {
     "id": "5f904336dcebac67",
@@ -146,7 +146,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b7c4cebbc4e5ec9e",
+  "active": "ac053bf70ed24f1c",
   "lastOpenFiles": [
     "开发语言学习/Pasted image 20240123195751.png",
     "开发语言学习/HTML.md",
