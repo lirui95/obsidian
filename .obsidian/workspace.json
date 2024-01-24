@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发语言学习/HTML.md",
+                "file": "obsidian/LINUX.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0b70fce5e89ec929",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidian/注册表.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发语言学习/HTML.md",
+                "file": "obsidian/注册表.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发语言学习/HTML.md",
+                "file": "obsidian/注册表.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发语言学习/HTML.md"
+                "file": "obsidian/注册表.md"
               }
             }
           }
@@ -146,36 +159,37 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ac053bf70ed24f1c",
+  "active": "0b70fce5e89ec929",
   "lastOpenFiles": [
-    "开发语言学习/Pasted image 20240123195751.png",
+    "obsidian/windows.md",
+    "obsidian/注册表.md",
+    "obsidian/LINUX.md",
+    "obsidian/计算机文件系统.md",
+    "obsidian/软路由.md",
+    "obsidian/源代码编译.md",
+    "obsidian/计算机.md",
+    "obsidian/ARM汇编语言.md",
+    "obsidian/clash.md",
+    "obsidian/iPad使用clash.md",
+    "obsidian/ISP下载.md",
+    "obsidian/代理.md",
     "开发语言学习/HTML.md",
+    "开发语言学习/Pasted image 20240123195751.png",
     "开发语言学习/未命名.md",
     "obsidian/Visual S.md",
     "开发语言学习",
-    "obsidian/代理.md",
-    "obsidian/LINUX.md",
     "obsidian/Keil error.md",
     "obsidian/LINUX Kernal.md",
     "obsidian/keil.md",
     "obsidian/防火墙.md",
     "obsidian/问题.md",
     "防火墙.md",
-    "obsidian/计算机.md",
-    "obsidian/计算机文件系统.md",
-    "obsidian/软路由.md",
     "obsidian/LINUX文件系统.md",
-    "obsidian/ARM汇编语言.md",
-    "obsidian/源代码编译.md",
-    "obsidian/iPad使用clash.md",
-    "obsidian/ISP下载.md",
-    "obsidian/clash.md",
     "obsidian",
     "我超棒的远程仓库/源代码编译.md",
     "我超棒的远程仓库/未命名.md",
     "我超棒的远程仓库/代理.md",
     "我超棒的远程仓库/LINUX Kernal.md",
-    "我超棒的远程仓库/iPad使用clash.md",
     "未命名 1",
     "我超棒的远程仓库/obsidian",
     "我超棒的远程仓库",
