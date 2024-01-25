@@ -20,6 +20,30 @@
             }
           },
           {
+            "id": "65fbb10deb2ca564",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "开发语言学习/C语言.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "66f3031245479850",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "开发语言学习/HTML.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a39387842777c1b8",
             "type": "leaf",
             "state": {
@@ -31,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -159,16 +184,20 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "07c71b1afa56f2f0",
+  "active": "66f3031245479850",
   "lastOpenFiles": [
+    "obsidian/Shell.md",
+    "obsidian/LINUX文件与目录管理.md",
+    "obsidian/LINUX Kernal.md",
+    "obsidian/LINUX.md",
+    "开发语言学习/Python.md",
+    "开发语言学习/C语言.md",
+    "开发语言学习/HTML.md",
     "obsidian/Keil error.md",
     "obsidian/keil.md",
     "obsidian/计算机文件系统.md",
-    "obsidian/LINUX文件与目录管理.md",
-    "obsidian/LINUX Kernal.md",
     "obsidian/iPad使用clash.md",
     "obsidian/计算机.md",
-    "obsidian/LINUX.md",
     "obsidian/ISP下载.md",
     "科项研究/电磁地图的快速与可信重构技术研究.md",
     "科项研究",
@@ -179,9 +208,7 @@
     "obsidian/ARM汇编语言.md",
     "obsidian/clash.md",
     "obsidian/代理.md",
-    "开发语言学习/HTML.md",
     "开发语言学习/Pasted image 20240123195751.png",
-    "开发语言学习/未命名.md",
     "obsidian/Visual S.md",
     "开发语言学习",
     "obsidian/防火墙.md",
@@ -189,8 +216,6 @@
     "防火墙.md",
     "obsidian/LINUX文件系统.md",
     "obsidian",
-    "我超棒的远程仓库/源代码编译.md",
-    "我超棒的远程仓库/未命名.md",
     "未命名 1",
     "我超棒的远程仓库/obsidian",
     "我超棒的远程仓库",

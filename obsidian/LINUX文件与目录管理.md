@@ -27,4 +27,3 @@
 	locate
 	whereis
 	which(what is)
-	
