@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian/LINUX文件与目录管理.md",
+                "file": "obsidian/Keil error.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian/LINUX文件与目录管理.md",
+                "file": "obsidian/Keil error.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian/LINUX文件与目录管理.md",
+                "file": "obsidian/Keil error.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian/LINUX文件与目录管理.md"
+                "file": "obsidian/Keil error.md"
               }
             }
           }
@@ -160,13 +160,15 @@
   },
   "active": "07c71b1afa56f2f0",
   "lastOpenFiles": [
+    "obsidian/keil.md",
+    "obsidian/Keil error.md",
+    "obsidian/计算机文件系统.md",
+    "obsidian/LINUX文件与目录管理.md",
     "obsidian/LINUX Kernal.md",
     "obsidian/iPad使用clash.md",
     "obsidian/计算机.md",
-    "obsidian/计算机文件系统.md",
     "obsidian/LINUX.md",
     "obsidian/ISP下载.md",
-    "obsidian/LINUX文件与目录管理.md",
     "科项研究/电磁地图的快速与可信重构技术研究.md",
     "科项研究",
     "obsidian/注册表.md",
@@ -181,8 +183,6 @@
     "开发语言学习/未命名.md",
     "obsidian/Visual S.md",
     "开发语言学习",
-    "obsidian/Keil error.md",
-    "obsidian/keil.md",
     "obsidian/防火墙.md",
     "obsidian/问题.md",
     "防火墙.md",
