@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发语言学习/HTML.md",
+                "file": "obsidian/Shell.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发语言学习/HTML.md",
+                "file": "obsidian/Shell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发语言学习/HTML.md",
+                "file": "obsidian/Shell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发语言学习/HTML.md"
+                "file": "obsidian/Shell.md"
               }
             }
           }
@@ -186,13 +186,13 @@
   },
   "active": "66f3031245479850",
   "lastOpenFiles": [
+    "开发语言学习/HTML.md",
     "obsidian/Shell.md",
     "obsidian/LINUX文件与目录管理.md",
     "obsidian/LINUX Kernal.md",
     "obsidian/LINUX.md",
     "开发语言学习/Python.md",
     "开发语言学习/C语言.md",
-    "开发语言学习/HTML.md",
     "obsidian/Keil error.md",
     "obsidian/keil.md",
     "obsidian/计算机文件系统.md",
