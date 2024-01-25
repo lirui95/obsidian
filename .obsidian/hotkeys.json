@@ -22,5 +22,14 @@
       ],
       "key": "ArrowDown"
     }
-  ]
+  ],
+  "editor:toggle-highlight": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "H"
+    }
+  ],
+  "editor:open-search-replace": []
 }

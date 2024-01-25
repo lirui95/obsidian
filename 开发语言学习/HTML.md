@@ -113,27 +113,27 @@ HTML超链接  超链接的几种形式
 	<a href="url">链接文本</a>
 
 
-HTML head 元素
+==HTML head 元素==
 标签	描述
-<head>	定义了文档的信息
-<title>	    定义了文档的标题
-<base>	定义了页面链接标签的默认链接地址
-<link> 	定义了一个文档和外部资源之间的关系
-<meta>	定义了HTML文档中的元数据
-<script>	定义了客户端的脚本文件
-<style>	定义了HTML文档的样式文件
+	<head>	定义了文档的信息
+	<title>	    定义了文档的标题
+	<base>	定义了页面链接标签的默认链接地址
+	<link> 	定义了一个文档和外部资源之间的关系
+	<meta>	定义了HTML文档中的元数据
+	script>	定义了客户端的脚本文件
+	style>	定义了HTML文档的样式文件
 
-**HTML 样式CSS**
+==**HTML 样式CSS**==
 
 *CSS (Cascading Style Sheets) 用于渲染HTML元素标签的样式*
 *使用方式：内联、内部样式、外部引用；*
 *example：样式属性、字体*
 
-HTML图像 
+==HTML图像== 
 
-HTML表格
+==HTML表格==
 
-HTML列表
+==HTML列表==
 无序列表
 	<ul>  
 	<li>Coffee</li>  
@@ -155,4 +155,10 @@ HTML列表
 	<dt>Milk</dt>  
 	<dd>- white cold drink</dd>  
 	</dl>
-HTML区块
+
+==HTML区块==
+
+==HTML布局== 
+	网页布局 使用DIV元素或者table元素
+		DIV元素：
+                
