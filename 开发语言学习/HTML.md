@@ -159,6 +159,8 @@ HTML超链接  超链接的几种形式
 ==HTML区块==
 
 ==HTML布局== 
+	HTML布局需要花费jiao'du
 	网页布局 使用DIV元素或者table元素
-		DIV元素：
+		DIV元素：用于分组HTML的块级元素 
+				 
                 
