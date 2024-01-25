@@ -22,4 +22,9 @@
 	head or tail 取行
 	 
 	 od \非纯文本文件
-			
+6\查找文件
+	find 
+	locate
+	whereis
+	which(what is)
+	
