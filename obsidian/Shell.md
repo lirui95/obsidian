@@ -108,6 +108,82 @@ shell数组
 		${array_name[index]}
 	关联数组
 		键值关联映射
-		-关联数组使用 [declare](https://www.runoob.com/linux/linux-comm-declare.html) 命令来声明，语法格式如下：
-		declare -A array_name
-		-
+		-关联数组使用 
+			[declare](https://www.runoob.com/linux/linux-comm-declare.html) 命令来声明，
+			语法格式如下：
+			declare -A array_name
+		-关联数组访问
+			declare -A site #声明关联数组
+			site["google"]="www.google.com"
+			site["runoob"]="www.runoob.com"
+			site["taobao"]="www.taobao.com"
+			echo ${site["runoob"]}
+			
+		-获取数组中的元素
+			使用 @ 或 * 可以获取数组中的所有元素，例如：
+			## 实例
+			#!/bin/bash  
+			# author:菜鸟教程  
+			# url:www.runoob.com    
+			my_array[0]=A  
+			my_array[1]=B  
+			my_array[2]=C  
+			my_array[3]=D    
+			echo "数组的元素为: ${my_array[*]}"  
+			echo "数组的元素为: ${my_array[@]}"
+
+shell运算符
+	原生bash不支持数学运算，但可以通过其他命令实现，例如awk expr
+		val=`expr 2 + 2`（注意为反引号，且符号之间有空格）
+		echo "$val"
+		执行为4
+		
+		条件表达式
+			[$a==$b]
+			if[$a!=$b]
+			then echo"不等于"
+			
+		**注意：**
+			- 乘号(*)前边必须加反斜杠(\)才能实现乘法运算；
+			- if...then...fi 是条件语句，后续将会讲解。
+			- 在 MAC 中 shell 的 expr 语法是：**$((表达式))**，此处表达式中的 "*" 不需要转义符号 "\" 。
+		
+		关系运算符
+			|-eq|检测两个数是否相等，相等返回 true。|[ $a -eq $b ] 返回 false。|
+			|-ne|检测两个数是否不相等，不相等返回 true。|[ $a -ne $b ] 返回 true。|
+			|-gt|检测左边的数是否大于右边的，如果是，则返回 true。|[ $a -gt $b ] 返回 false。|
+			|-lt|检测左边的数是否小于右边的，如果是，则返回 true。|[ $a -lt $b ] 返回 true。|
+			|-ge|检测左边的数是否大于等于右边的，如果是，则返回 true。|[ $a -ge $b ] 返回 false。|
+			|-le|检测左边的数是否小于等于右边的，如果是，则返回 true。|[ $a -le $b ] 返回 true。|
+
+		bool运算符
+			同数字逻辑运算
+
+		字符串运算符
+			|运算符|说明|举例|
+			|---|---|---|
+			|=|检测两个字符串是否相等，相等返回 true。|[ $a = $b ] 返回 false。|
+			|!=|检测两个字符串是否不相等，不相等返回 true。|[ $a != $b ] 返回 true。|
+			|-z|检测字符串长度是否为0，为0返回 true。|[ -z $a ] 返回 false。|
+			|-n|检测字符串长度是否不为 0，不为 0 返回 true。|[ -n "$a" ] 返回 true。|
+			|$|检测字符串是否不为空，不为空返回 true。|[ $a ] 返回 true。|
+
+		文件检测运算符
+			文件测试运算符用于检测 Unix 文件的各种属性。
+			属性检测描述如下：
+			
+			|操作符|说明|举例|
+			|---|---|---|
+			|-b file|检测文件是否是块设备文件，如果是，则返回 true。|[ -b $file ] 返回 false。|
+			|-c file|检测文件是否是字符设备文件，如果是，则返回 true。|[ -c $file ] 返回 false。|
+			|-d file|检测文件是否是目录，如果是，则返回 true。|[ -d $file ] 返回 false。|
+			|-f file|检测文件是否是普通文件（既不是目录，也不是设备文件），如果是，则返回 true。|[ -f $file ] 返回 true。|
+			|-g file|检测文件是否设置了 SGID 位，如果是，则返回 true。|[ -g $file ] 返回 false。|
+			|-k file|检测文件是否设置了粘着位(Sticky Bit)，如果是，则返回 true。|[ -k $file ] 返回 false。|
+			|-p file|检测文件是否是有名管道，如果是，则返回 true。|[ -p $file ] 返回 false。|
+			|-u file|检测文件是否设置了 SUID 位，如果是，则返回 true。|[ -u $file ] 返回 false。|
+			|-r file|检测文件是否可读，如果是，则返回 true。|[ -r $file ] 返回 true。|
+			|-w file|检测文件是否可写，如果是，则返回 true。|[ -w $file ] 返回 true。|
+			|-x file|检测文件是否可执行，如果是，则返回 true。|[ -x $file ] 返回 true。|
+			|-s file|检测文件是否为空（文件大小是否大于0），不为空返回 true。|[ -s $file ] 返回 true。|
+			|-e file|检测文件（包括目录）是否存在，如果是，则返回 true。|[ -e $file ] 返回 true。|
