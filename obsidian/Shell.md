@@ -1,3 +1,4 @@
+[[LINUX]]
 shell是C语言编写的程序{文本编译器+解释执行器}
 
 	==记录常见shell==
@@ -187,3 +188,5 @@ shell运算符
 			|-x file|检测文件是否可执行，如果是，则返回 true。|[ -x $file ] 返回 true。|
 			|-s file|检测文件是否为空（文件大小是否大于0），不为空返回 true。|[ -s $file ] 返回 true。|
 			|-e file|检测文件（包括目录）是否存在，如果是，则返回 true。|[ -e $file ] 返回 true。|
+
+SHELL命令 ：
