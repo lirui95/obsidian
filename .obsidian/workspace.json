@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "07c71b1afa56f2f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "开发语言学习/HTML.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "65fbb10deb2ca564",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "开发语言学习/C语言.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "66f3031245479850",
             "type": "leaf",
             "state": {
@@ -55,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -187,12 +162,12 @@
   "active": "66f3031245479850",
   "lastOpenFiles": [
     "开发语言学习/HTML.md",
+    "开发语言学习/C语言.md",
     "obsidian/Shell.md",
     "obsidian/LINUX文件与目录管理.md",
     "obsidian/LINUX Kernal.md",
     "obsidian/LINUX.md",
     "开发语言学习/Python.md",
-    "开发语言学习/C语言.md",
     "obsidian/Keil error.md",
     "obsidian/keil.md",
     "obsidian/计算机文件系统.md",

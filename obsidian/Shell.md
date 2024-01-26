@@ -99,3 +99,15 @@ $@	与$*相同，但是使用时加引号，并在引号中返回每个参数。
 如"$@"用「"」括起来的情况、以"$1" "$2" … "$n" 的形式输出所有参数。
 $-	显示Shell使用的当前选项，与set命令功能相同。
 $?	显示最后命令的退出状态。0表示没有错误，其他任何值表明有错误。
+
+
+shell数组
+	shell数组可以存放多值，初始时不需要指定大小；
+	array_my=(1 2 3 4)
+	读取数组的一般格式 
+		${array_name[index]}
+	关联数组
+		键值关联映射
+		-关联数组使用 [declare](https://www.runoob.com/linux/linux-comm-declare.html) 命令来声明，语法格式如下：
+		declare -A array_name
+		-
