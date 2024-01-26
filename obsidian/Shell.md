@@ -190,3 +190,12 @@ shell运算符
 			|-e file|检测文件（包括目录）是否存在，如果是，则返回 true。|[ -e $file ] 返回 true。|
 
 SHELL命令 ：
+
+SHELL流程控制：
+	shell流程不可为空，
+	
+	if confition 
+	then 
+		command1
+		command2
+	fi
