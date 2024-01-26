@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian/注册表.md",
+                "file": "STM32/总览.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian/注册表.md",
+                "file": "STM32/总览.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian/注册表.md",
+                "file": "STM32/总览.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian/注册表.md"
+                "file": "STM32/总览.md"
               }
             }
           }
@@ -161,6 +161,9 @@
   },
   "active": "66f3031245479850",
   "lastOpenFiles": [
+    "obsidian/注册表.md",
+    "STM32/总览.md",
+    "STM32",
     "obsidian/Shell.md",
     "obsidian/计算机.md",
     "obsidian/计算机文件系统.md",
@@ -181,7 +184,6 @@
     "obsidian/ISP下载.md",
     "科项研究/电磁地图的快速与可信重构技术研究.md",
     "科项研究",
-    "obsidian/注册表.md",
     "obsidian/windows.md",
     "obsidian/软路由.md",
     "obsidian/源代码编译.md",
