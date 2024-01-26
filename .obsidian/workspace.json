@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STM32/GPIO.md",
+                "file": "obsidian/LINUX.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STM32/GPIO.md",
+                "file": "obsidian/LINUX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "STM32/GPIO.md",
+                "file": "obsidian/LINUX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STM32/GPIO.md"
+                "file": "obsidian/LINUX.md"
               }
             }
           }
@@ -174,8 +174,8 @@
   },
   "active": "3fbfcf9019e3dbf2",
   "lastOpenFiles": [
-    "STM32/总览.md",
     "STM32/GPIO.md",
+    "STM32/总览.md",
     "obsidian/注册表.md",
     "STM32",
     "obsidian/Shell.md",
