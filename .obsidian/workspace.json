@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian/Shell.md",
+                "file": "obsidian/注册表.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian/Shell.md",
+                "file": "obsidian/注册表.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian/Shell.md",
+                "file": "obsidian/注册表.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian/Shell.md"
+                "file": "obsidian/注册表.md"
               }
             }
           }
@@ -159,8 +159,9 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "ac053bf70ed24f1c",
+  "active": "66f3031245479850",
   "lastOpenFiles": [
+    "obsidian/Shell.md",
     "obsidian/计算机.md",
     "obsidian/计算机文件系统.md",
     "obsidian/防火墙.md",
@@ -172,7 +173,6 @@
     "obsidian/ARM汇编语言.md",
     "obsidian/clash.md",
     "obsidian/iPad使用clash.md",
-    "obsidian/Shell.md",
     "obsidian/LINUX文件与目录管理.md",
     "obsidian/LINUX Kernal.md",
     "obsidian/LINUX.md",
