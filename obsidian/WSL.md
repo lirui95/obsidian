@@ -1,3 +1,4 @@
+Windows Subsystem for Linux
 [[Linux]]
 
 wsl是什么 
@@ -10,3 +11,4 @@ wsl是什么
 
 
 配置wsl
+

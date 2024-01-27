@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b6712abddfe62183",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obsidian/WSL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian/WSL.md",
+                "file": "obsidian/LINUX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian/WSL.md",
+                "file": "obsidian/LINUX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian/WSL.md"
+                "file": "obsidian/LINUX.md"
               }
             }
           }
@@ -160,10 +147,10 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "b6712abddfe62183",
+  "active": "66f3031245479850",
   "lastOpenFiles": [
-    "obsidian/ISP下载.md",
     "obsidian/WSL.md",
+    "obsidian/ISP下载.md",
     "STM32/总览.md",
     "STM32/GPIO.md",
     "STM32/keil.md",
