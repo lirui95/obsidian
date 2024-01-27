@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "3fbfcf9019e3dbf2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obsidian/LINUX.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a39387842777c1b8",
             "type": "leaf",
             "state": {
@@ -43,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian/LINUX.md",
+                "file": "STM32/总览.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian/LINUX.md",
+                "file": "STM32/总览.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian/LINUX.md"
+                "file": "STM32/总览.md"
               }
             }
           }
@@ -172,8 +159,11 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "3fbfcf9019e3dbf2",
+  "active": "66f3031245479850",
   "lastOpenFiles": [
+    "学习路线/学习路线.md",
+    "obsidian/LINUX.md",
+    "学习路线",
     "STM32/GPIO.md",
     "STM32/总览.md",
     "obsidian/注册表.md",
@@ -192,7 +182,6 @@
     "obsidian/iPad使用clash.md",
     "obsidian/LINUX文件与目录管理.md",
     "obsidian/LINUX Kernal.md",
-    "obsidian/LINUX.md",
     "obsidian/Keil error.md",
     "obsidian/keil.md",
     "obsidian/ISP下载.md",
@@ -203,7 +192,6 @@
     "obsidian/源代码编译.md",
     "obsidian/Visual S.md",
     "开发语言学习",
-    "obsidian/问题.md",
     "obsidian",
     "未命名 1",
     "我超棒的远程仓库/obsidian",
