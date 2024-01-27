@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian/LINUX.md",
+                "file": "学习路线/学习路线.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian/LINUX.md",
+                "file": "学习路线/学习路线.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian/LINUX.md",
+                "file": "学习路线/学习路线.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian/LINUX.md"
+                "file": "学习路线/学习路线.md"
               }
             }
           }
@@ -149,13 +149,13 @@
   },
   "active": "66f3031245479850",
   "lastOpenFiles": [
+    "obsidian/LINUX.md",
     "obsidian/WSL.md",
     "obsidian/ISP下载.md",
     "STM32/总览.md",
     "STM32/GPIO.md",
     "STM32/keil.md",
     "STM32/Keil error.md",
-    "obsidian/LINUX.md",
     "obsidian/Shell.md",
     "obsidian/通配符.md",
     "开发语言学习/HTML.md",
