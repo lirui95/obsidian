@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STM32/总览.md",
+                "file": "学习路线/学习路线.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STM32/总览.md",
+                "file": "学习路线/学习路线.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "STM32/总览.md",
+                "file": "学习路线/学习路线.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STM32/总览.md"
+                "file": "学习路线/学习路线.md"
               }
             }
           }
@@ -161,11 +161,12 @@
   },
   "active": "66f3031245479850",
   "lastOpenFiles": [
-    "学习路线/学习路线.md",
-    "obsidian/LINUX.md",
-    "学习路线",
     "STM32/GPIO.md",
     "STM32/总览.md",
+    "学习路线/学习路线.md",
+    "obsidian/WSL.md",
+    "obsidian/LINUX.md",
+    "学习路线",
     "obsidian/注册表.md",
     "STM32",
     "obsidian/Shell.md",
@@ -190,7 +191,6 @@
     "obsidian/windows.md",
     "obsidian/软路由.md",
     "obsidian/源代码编译.md",
-    "obsidian/Visual S.md",
     "开发语言学习",
     "obsidian",
     "未命名 1",
