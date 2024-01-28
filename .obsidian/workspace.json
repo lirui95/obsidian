@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学习路线/学习路线.md",
+                "file": "STM32/总览.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "85c1f71e06e3a946",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "STM32/FreeRTOS.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学习路线/学习路线.md",
+                "file": "STM32/FreeRTOS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "学习路线/学习路线.md",
+                "file": "STM32/FreeRTOS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "学习路线/学习路线.md"
+                "file": "STM32/FreeRTOS.md"
               }
             }
           }
@@ -147,12 +160,15 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "66f3031245479850",
+  "active": "85c1f71e06e3a946",
   "lastOpenFiles": [
+    "STM32/总览.md",
+    "STM32/FreeRTOS.md",
+    "学习路线/未命名.md",
+    "学习路线/学习路线.md",
     "obsidian/LINUX.md",
     "obsidian/WSL.md",
     "obsidian/ISP下载.md",
-    "STM32/总览.md",
     "STM32/GPIO.md",
     "STM32/keil.md",
     "STM32/Keil error.md",
@@ -161,7 +177,6 @@
     "开发语言学习/HTML.md",
     "开发语言学习/Python.md",
     "开发语言学习/Pasted image 20240123195751.png",
-    "学习路线/学习路线.md",
     "学习路线",
     "obsidian/注册表.md",
     "STM32",
@@ -177,8 +192,6 @@
     "obsidian/LINUX Kernal.md",
     "科项研究/电磁地图的快速与可信重构技术研究.md",
     "科项研究",
-    "obsidian/windows.md",
-    "obsidian/软路由.md",
     "开发语言学习",
     "obsidian",
     "未命名 1",
