@@ -13,3 +13,5 @@ systick应该还是按照内核时钟进行的，
 somequestion：
 临界区
 ![[Pasted image 20240128193632.png]]
+
+systick ；或者是 操作系统的时钟滴答是由什么初始化的 
