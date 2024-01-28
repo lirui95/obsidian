@@ -15,3 +15,5 @@ somequestion：
 ![[Pasted image 20240128193632.png]]
 
 systick ；或者是 操作系统的时钟滴答是由什么初始化的 
+
+任务创建管理 
