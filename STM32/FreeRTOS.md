@@ -4,3 +4,12 @@
 奇怪于代码段的定义实现了什么功能 
 systick应该还是按照内核时钟进行的，
 ![[Pasted image 20240128185611.png]]
+
+任务创建与流程启动 ：
+1-开发板硬件初始化 
+2-创建appcreate任务
+3-启动rtos ，开启多任务调度
+
+somequestion：
+临界区
+![[Pasted image 20240128193632.png]]
