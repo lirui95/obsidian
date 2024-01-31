@@ -45,16 +45,24 @@
             "id": "a0000a7b0a9ab231",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "b7d85b6d69bb451e",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "STM32/FreeRTOS.md",
+                "file": "obsidian/通配符.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -120,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STM32/FreeRTOS.md",
+                "file": "obsidian/通配符.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "STM32/FreeRTOS.md",
+                "file": "obsidian/通配符.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STM32/FreeRTOS.md"
+                "file": "obsidian/通配符.md"
               }
             }
           }
@@ -182,14 +190,20 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "a0000a7b0a9ab231",
+  "active": "b7d85b6d69bb451e",
   "lastOpenFiles": [
+    "obsidian/clash.md",
+    "obsidian/软路由.md",
+    "obsidian/代理.md",
+    "obsidian/iPad使用clash.md",
+    "obsidian/ISP下载.md",
+    "STM32/FreeRTOS.md",
+    "obsidian/Shell.md",
     "开发语言学习/ARM汇编语言.md",
     "开发语言学习/HTML.md",
     "开发语言学习/Python.md",
     "开发语言学习/Pasted image 20240123195751.png",
     "开发语言学习/C语言.md",
-    "STM32/FreeRTOS.md",
     "STM32/Pasted image 20240131185951.png",
     "STM32/Pasted image 20240131185022.png",
     "STM32/Pasted image 20240131184953.png",
@@ -205,11 +219,9 @@
     "学习路线/未命名.md",
     "obsidian/LINUX.md",
     "obsidian/WSL.md",
-    "obsidian/ISP下载.md",
     "STM32/GPIO.md",
     "STM32/keil.md",
     "STM32/Keil error.md",
-    "obsidian/Shell.md",
     "obsidian/通配符.md",
     "学习路线",
     "obsidian/注册表.md",
@@ -217,9 +229,6 @@
     "obsidian/计算机.md",
     "obsidian/计算机文件系统.md",
     "obsidian/防火墙.md",
-    "obsidian/代理.md",
-    "obsidian/clash.md",
-    "obsidian/iPad使用clash.md",
     "obsidian/LINUX文件与目录管理.md",
     "科项研究",
     "开发语言学习",
