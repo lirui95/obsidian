@@ -30,9 +30,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "25f317f159f9fc64",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "STM32/Pasted image 20240128185611 1.png"
+              }
+            }
+          },
+          {
+            "id": "a0000a7b0a9ab231",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "STM32/FreeRTOS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -160,13 +182,25 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "85c1f71e06e3a946",
+  "active": "a0000a7b0a9ab231",
   "lastOpenFiles": [
-    "STM32/Pasted image 20240131143429.png",
-    "学习路线/学习路线.md",
+    "开发语言学习/ARM汇编语言.md",
+    "开发语言学习/HTML.md",
+    "开发语言学习/Python.md",
+    "开发语言学习/Pasted image 20240123195751.png",
+    "开发语言学习/C语言.md",
     "STM32/FreeRTOS.md",
+    "STM32/Pasted image 20240131185951.png",
+    "STM32/Pasted image 20240131185022.png",
+    "STM32/Pasted image 20240131184953.png",
+    "STM32/Pasted image 20240131184829.png",
+    "STM32/Pasted image 20240131184749.png",
+    "STM32/Pasted image 20240131184618.png",
+    "STM32/PIC.md",
+    "STM32/Pasted image 20240131143429.png",
     "STM32/Pasted image 20240128193632.png",
-    "STM32/Pasted image 20240128185611.png",
+    "STM32/Pasted image 20240128185611 1.png",
+    "学习路线/学习路线.md",
     "STM32/总览.md",
     "学习路线/未命名.md",
     "obsidian/LINUX.md",
@@ -177,9 +211,6 @@
     "STM32/Keil error.md",
     "obsidian/Shell.md",
     "obsidian/通配符.md",
-    "开发语言学习/HTML.md",
-    "开发语言学习/Python.md",
-    "开发语言学习/Pasted image 20240123195751.png",
     "学习路线",
     "obsidian/注册表.md",
     "STM32",
@@ -187,12 +218,9 @@
     "obsidian/计算机文件系统.md",
     "obsidian/防火墙.md",
     "obsidian/代理.md",
-    "开发语言学习/C语言.md",
-    "开发语言学习/ARM汇编语言.md",
     "obsidian/clash.md",
     "obsidian/iPad使用clash.md",
     "obsidian/LINUX文件与目录管理.md",
-    "obsidian/LINUX Kernal.md",
     "科项研究",
     "开发语言学习",
     "obsidian",
