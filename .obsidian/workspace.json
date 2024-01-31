@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STM32/总览.md",
+                "file": "obsidian/LINUX.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STM32/总览.md",
+                "file": "obsidian/LINUX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "STM32/总览.md",
+                "file": "obsidian/LINUX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STM32/总览.md"
+                "file": "obsidian/LINUX.md"
               }
             }
           }
@@ -192,6 +192,7 @@
   },
   "active": "b7d85b6d69bb451e",
   "lastOpenFiles": [
+    "STM32/总览.md",
     "STM32/Keil error.md",
     "obsidian/通配符.md",
     "obsidian/clash.md",
@@ -217,7 +218,6 @@
     "STM32/Pasted image 20240128193632.png",
     "STM32/Pasted image 20240128185611 1.png",
     "学习路线/学习路线.md",
-    "STM32/总览.md",
     "学习路线/未命名.md",
     "obsidian/LINUX.md",
     "obsidian/WSL.md",
