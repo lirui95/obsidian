@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian/通配符.md",
+                "file": "STM32/总览.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian/通配符.md",
+                "file": "STM32/总览.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian/通配符.md",
+                "file": "STM32/总览.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian/通配符.md"
+                "file": "STM32/总览.md"
               }
             }
           }
@@ -192,6 +192,8 @@
   },
   "active": "b7d85b6d69bb451e",
   "lastOpenFiles": [
+    "STM32/Keil error.md",
+    "obsidian/通配符.md",
     "obsidian/clash.md",
     "obsidian/软路由.md",
     "obsidian/代理.md",
@@ -221,8 +223,6 @@
     "obsidian/WSL.md",
     "STM32/GPIO.md",
     "STM32/keil.md",
-    "STM32/Keil error.md",
-    "obsidian/通配符.md",
     "学习路线",
     "obsidian/注册表.md",
     "STM32",
