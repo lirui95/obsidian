@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发语言学习/HTML.md",
+                "file": "obsidian/代理.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 369.5
+    "width": 200
   },
   "right": {
     "id": "5f904336dcebac67",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发语言学习/HTML.md",
+                "file": "obsidian/代理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发语言学习/HTML.md",
+                "file": "obsidian/代理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发语言学习/HTML.md"
+                "file": "obsidian/代理.md"
               }
             }
           }
@@ -150,19 +150,18 @@
   "lastOpenFiles": [
     "开发语言学习/Pasted image 20240123195751.png",
     "开发语言学习/HTML.md",
-    "开发语言学习/未命名.md",
-    "obsidian/Visual S.md",
     "开发语言学习",
-    "obsidian/代理.md",
     "obsidian/LINUX.md",
     "obsidian/Keil error.md",
     "obsidian/LINUX Kernal.md",
     "obsidian/keil.md",
     "obsidian/防火墙.md",
     "obsidian/问题.md",
+    "obsidian/Visual S.md",
     "防火墙.md",
     "obsidian/计算机.md",
     "obsidian/计算机文件系统.md",
+    "obsidian/代理.md",
     "obsidian/软路由.md",
     "obsidian/LINUX文件系统.md",
     "obsidian/ARM汇编语言.md",
@@ -176,7 +175,9 @@
     "我超棒的远程仓库/代理.md",
     "我超棒的远程仓库/LINUX Kernal.md",
     "我超棒的远程仓库/iPad使用clash.md",
+    "我超棒的远程仓库/clash.md",
     "未命名 1",
+    "未命名",
     "我超棒的远程仓库/obsidian",
     "我超棒的远程仓库",
     "·",
