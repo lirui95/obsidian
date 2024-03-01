@@ -8,61 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "66f3031245479850",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "STM32/总览.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "85c1f71e06e3a946",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "STM32/FreeRTOS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "25f317f159f9fc64",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "STM32/Pasted image 20240128185611 1.png"
-              }
-            }
-          },
-          {
-            "id": "a0000a7b0a9ab231",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "b7d85b6d69bb451e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STM32/FreeRTOS.md",
+                "file": "STM32/Keil error.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STM32/FreeRTOS.md",
+                "file": "STM32/Keil error.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "STM32/FreeRTOS.md",
+                "file": "STM32/Keil error.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STM32/FreeRTOS.md"
+                "file": "STM32/Keil error.md"
               }
             }
           }
@@ -192,8 +149,11 @@
   },
   "active": "b7d85b6d69bb451e",
   "lastOpenFiles": [
-    "obsidian/LINUX.md",
+    "STM32/keil.md",
+    "STM32/FreeRTOS.md",
+    "STM32/Pasted image 20240128185611 1.png",
     "STM32/总览.md",
+    "obsidian/LINUX.md",
     "STM32/Keil error.md",
     "obsidian/通配符.md",
     "obsidian/clash.md",
@@ -201,7 +161,6 @@
     "obsidian/代理.md",
     "obsidian/iPad使用clash.md",
     "obsidian/ISP下载.md",
-    "STM32/FreeRTOS.md",
     "obsidian/Shell.md",
     "开发语言学习/ARM汇编语言.md",
     "开发语言学习/HTML.md",
@@ -217,19 +176,16 @@
     "STM32/PIC.md",
     "STM32/Pasted image 20240131143429.png",
     "STM32/Pasted image 20240128193632.png",
-    "STM32/Pasted image 20240128185611 1.png",
     "学习路线/学习路线.md",
     "学习路线/未命名.md",
     "obsidian/WSL.md",
     "STM32/GPIO.md",
-    "STM32/keil.md",
     "学习路线",
     "obsidian/注册表.md",
     "STM32",
     "obsidian/计算机.md",
     "obsidian/计算机文件系统.md",
     "obsidian/防火墙.md",
-    "obsidian/LINUX文件与目录管理.md",
     "科项研究",
     "开发语言学习",
     "obsidian",
