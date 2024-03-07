@@ -20,41 +20,18 @@
             }
           },
           {
-            "id": "3125861522816b3c",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "obsidian/Pasted image 20240307223836.png"
-              }
-            }
-          },
-          {
-            "id": "8dac62a0e8b3f769",
+            "id": "afe4af6d784c4a1b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian/Hass简介.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "df7cdadef9aee238",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obsidian/本文档用于介绍传输协议及其开发.md",
+                "file": "obsidian/记录遇到的error.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian/本文档用于介绍传输协议及其开发.md",
+                "file": "STM32/FreeRTOS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian/本文档用于介绍传输协议及其开发.md",
+                "file": "STM32/FreeRTOS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian/本文档用于介绍传输协议及其开发.md"
+                "file": "STM32/FreeRTOS.md"
               }
             }
           }
@@ -182,13 +159,15 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "df7cdadef9aee238",
+  "active": "b7d85b6d69bb451e",
   "lastOpenFiles": [
+    "obsidian/Pasted image 20240307223836.png",
     "obsidian/Hass简介.md",
     "obsidian/本文档用于介绍传输协议及其开发.md",
+    "obsidian/记录遇到的error.md",
     "未命名",
+    "Arduino开发",
     "传输协议",
-    "obsidian/Pasted image 20240307223836.png",
     "hass开发",
     "obsidian/LINUX.md",
     "STM32/未命名.md",
@@ -223,13 +202,10 @@
     "obsidian/WSL.md",
     "STM32/GPIO.md",
     "学习路线",
-    "obsidian/注册表.md",
     "STM32",
-    "obsidian/计算机.md",
     "科项研究",
     "开发语言学习",
     "obsidian",
-    "未命名 1",
     "未命名.canvas"
   ]
 }
