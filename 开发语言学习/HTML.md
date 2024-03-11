@@ -113,21 +113,132 @@ HTML超链接  超链接的几种形式
 	<a href="url">链接文本</a>
 
 
-HTML head 元素
+==HTML head 元素==
 标签	描述
-<head>	定义了文档的信息
-<title>	    定义了文档的标题
-<base>	定义了页面链接标签的默认链接地址
-<link> 	定义了一个文档和外部资源之间的关系
-<meta>	定义了HTML文档中的元数据
-<script>	定义了客户端的脚本文件
-<style>	定义了HTML文档的样式文件
+	<head>	定义了文档的信息
+	<title>	    定义了文档的标题
+	<base>	定义了页面链接标签的默认链接地址
+	<link> 	定义了一个文档和外部资源之间的关系
+	<meta>	定义了HTML文档中的元数据
+	script>	定义了客户端的脚本文件
+	style>	定义了HTML文档的样式文件
 
-**HTML 样式CSS**
+==**HTML 样式CSS**==
 
 *CSS (Cascading Style Sheets) 用于渲染HTML元素标签的样式*
 *使用方式：内联、内部样式、外部引用；*
 *example：样式属性、字体*
 
-HTML图像 
+==HTML图像== 
+
+==HTML表格==
+
+==HTML列表==
+无序列表
+	<ul>  
+	<li>Coffee</li>  
+	<li>Milk</li>  
+	</ul>
+有序列表
+	<ol>  
+	<li>Coffee</li>  
+	<li>Milk</li>  
+	</ol>
+自定义列表
+	自定义列表不仅仅是一列项目，而是项目及其注释的组合。
+	
+	自定义列表以 <dl> 标签开始。每个自定义列表项以 <dt> 开始。每个自定义列表项的定义以 <dd> 开始。
+	
+	<dl>  
+	<dt>Coffee</dt>  
+	<dd>- black hot drink</dd>  
+	<dt>Milk</dt>  
+	<dd>- white cold drink</dd>  
+	</dl>
+
+==HTML区块==
+
+==HTML布局== 
+	HTML布局需要花费较多时间，考虑从模板入手 
+	网页布局 使用DIV元素或者table元素
+		DIV元素：用于分组HTML的块级元素 
+
+		table元素：table标签是创建布局的一种方式
+		
+				 
+
+==HTML表单和输入==
+表单用于收集用户输入信息。
+	HTML 表单表示文档中的一个区域，此区域包含交互控件，将用户收集到的信息发送到 Web 服务器。
+	
+		以下是一个简单的HTML表单的例子：
+			- `<form>` 元素用于创建表单，`action` 属性定义了表单数据提交的目标 URL，`method` 属性定义了提交数据的 HTTP 方法（这里使用的是 "post"）。
+			- `<label>` 元素用于为表单元素添加标签，提高可访问性。
+			- `<input>` 元素是最常用的表单元素之一，它可以创建文本输入框、密码框、单选按钮、复选框等。`type` 属性定义了输入框的类型，`id` 属性用于关联 `<label>` 元素，`name` 属性用于标识表单字段。
+			- `<select>` 元素用于创建下拉列表，而 `<option>` 元素用于定义下拉列表中的选项。
+			- <form action="/" method="post">
+				    <!-- 文本输入框 -->
+				    <label for="name">用户名:</label>
+				    <input type="text" id="name" name="name" required>
+				
+				    <br>
+				
+				    <!-- 密码输入框 -->
+				    <label for="password">密码:</label>
+				    <input type="password" id="password" name="password" required>
+				
+				    <br>
+				
+				    <!-- 单选按钮 -->
+				    <label>性别:</label>
+				    <input type="radio" id="male" name="gender" value="male" checked>
+				    <label for="male">男</label>
+				    <input type="radio" id="female" name="gender" value="female">
+				    <label for="female">女</label>
+				
+				    <br>
+				
+				    <!-- 复选框 -->
+				    <input type="checkbox" id="subscribe" name="subscribe" checked>
+				    <label for="subscribe">订阅推送信息</label>
+				
+				    <br>
+				
+				    <!-- 下拉列表 -->
+				    <label for="country">国家:</label>
+				    <select id="country" name="country">
+				        <option value="cn">CN</option>
+				        <option value="usa">USA</option>
+				        <option value="uk">UK</option>
+				    </select>
+				
+				    <br>
+				
+				    <!-- 提交按钮 -->
+				    <input type="submit" value="提交">
+				</form>
+
+
+==HTML框架==
+	通过使用框架，可以在一个浏览器窗口显示不止一个页面
+		使用iframe来显示目标链接页面 
+			<!DOCTYPE html>
+			<html>
+			<head> 
+			<meta charset="utf-8"> 
+			<title>菜鸟教程(runoob.com)</title> 
+			</head> 
+			<body>
+			
+			<iframe src="demo_iframe.htm" name="iframe_a"></iframe>
+			<p><a href="https://www.runoob.com" target="iframe_a">RUNOOB.COM</a></p>
+			
+			<p><b>注意：</b> 因为 a 标签的 target 属性是名为 iframe_a 的 iframe 框架，所以在点击链接时页面会显示在 iframe框架中。</p>
+			
+			</body>
+			</html>
+
+
+==HTML颜色==加油 为了成为更好的人 
+	人们惧怕孤独，人们成为孤独。
 
