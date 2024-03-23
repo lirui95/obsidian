@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STM32/Arduino学习开发.md",
+                "file": "LIST/未命名.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STM32/Arduino学习开发.md",
+                "file": "LIST/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "STM32/Arduino学习开发.md",
+                "file": "LIST/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STM32/Arduino学习开发.md"
+                "file": "LIST/未命名.md"
               }
             }
           }
@@ -174,13 +174,17 @@
   },
   "active": "f9e3275f00c99644",
   "lastOpenFiles": [
-    "STM32/FreeRTOS.md",
+    "STM32/未命名 2.md",
+    "LIST/未命名.md",
+    "未命名",
+    "STM32/未命名 1.md",
+    "LIST",
     "STM32/Arduino学习开发.md",
+    "STM32/FreeRTOS.md",
     "obsidian/Pasted image 20240307223836.png",
     "obsidian/Hass简介.md",
     "obsidian/本文档用于介绍传输协议及其开发.md",
     "obsidian/记录遇到的error.md",
-    "未命名",
     "Arduino开发",
     "传输协议",
     "hass开发",
@@ -212,14 +216,10 @@
     "STM32/PIC.md",
     "STM32/Pasted image 20240131143429.png",
     "学习路线/学习路线.md",
-    "学习路线/未命名.md",
-    "obsidian/WSL.md",
-    "STM32/GPIO.md",
     "学习路线",
     "STM32",
     "科项研究",
     "开发语言学习",
-    "obsidian",
     "未命名.canvas"
   ]
 }
