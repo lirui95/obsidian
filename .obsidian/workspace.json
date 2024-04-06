@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "软件开发/综述.md",
+                "file": "开发语言学习/C语言.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "软件开发/综述.md",
+                "file": "开发语言学习/C语言.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "软件开发/综述.md",
+                "file": "开发语言学习/C语言.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "软件开发/综述.md"
+                "file": "开发语言学习/C语言.md"
               }
             }
           }
@@ -162,8 +162,8 @@
   },
   "active": "0a7971a9381e8803",
   "lastOpenFiles": [
-    "软件开发/小车控制上位机开发.md",
     "软件开发/综述.md",
+    "软件开发/小车控制上位机开发.md",
     "学习路线/学习路线.md",
     "软件开发",
     "HASS/Hass学习指南.md",
