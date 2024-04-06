@@ -18,8 +18,57 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a4065aedadf2101c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "STM32/FreeRTOS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9289cbc459ce5441",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HASS/Hass学习指南.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a8a4145ccd66e561",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HASS/Hass学习指南.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1642e16f14afba2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidian/防火墙.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -85,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STM32/FreeRTOS.md",
+                "file": "obsidian/防火墙.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "STM32/FreeRTOS.md",
+                "file": "obsidian/防火墙.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STM32/FreeRTOS.md"
+                "file": "obsidian/防火墙.md"
               }
             }
           }
@@ -147,18 +196,29 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "dbf779534976a955",
+  "active": "1642e16f14afba2c",
   "lastOpenFiles": [
+    "obsidian/代理.md",
+    "conflict-files-obsidian-git.md",
+    "HASS/Hass学习指南.md",
+    "HASS/config.net.md",
+    "HASS",
+    "STM32/FreeRTOS.md",
     "STM32/GPIO.md",
     "STM32/keil.md",
     "STM32/Keil error.md",
+    "STM32/Pasted image 20240128185611 1.png",
+    "obsidian/计算机.md",
+    "obsidian/防火墙.md",
+    "obsidian/本文档用于介绍传输协议及其开发.md",
+    "学习路线/学习路线.md",
+    "科项研究/卷积.md",
+    "科项研究/电磁地图的快速与可信重构技术研究.md",
+    "STM32/Arduino学习开发.md",
     "STM32/Pasted image 20240131184749.png",
     "STM32/Pasted image 20240131184618.png",
     "STM32/Pasted image 20240131143429.png",
-    "STM32/Pasted image 20240128185611 1.png",
     "STM32/Pasted image 20240128193632.png",
-    "开发语言学习/ARM汇编语言.md",
-    "科项研究/卷积.md",
-    "科项研究/电磁地图的快速与可信重构技术研究.md"
+    "开发语言学习/ARM汇编语言.md"
   ]
 }
