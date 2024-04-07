@@ -6,5 +6,6 @@ L6235E:# More than one section matches selector - cannot all be FIRST/LAST.
 L3900U# 出现在对新版本添加旧版编译器，ARMCC与ARMCLANG （新版本已不含ARMCC）
 当尝试将compiler5安装在ARMCLANG中时报错
 工程链配置错误：
-
-[[keil]]
+**交叉编译链**：
+[[keil]]**
+**

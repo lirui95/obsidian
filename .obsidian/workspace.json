@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian/windows.md",
+                "file": "STM32/Keil error.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian/windows.md",
+                "file": "STM32/Keil error.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian/windows.md",
+                "file": "STM32/Keil error.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian/windows.md"
+                "file": "STM32/Keil error.md"
               }
             }
           }
@@ -174,17 +174,22 @@
   },
   "active": "f9e3275f00c99644",
   "lastOpenFiles": [
+    "STM32/keil.md",
+    "STM32/GPIO.md",
+    "STM32/FreeRTOS.md",
+    "STM32/总览.md",
+    "通信协议/总述.md",
+    "LIST/2023 年记.md",
+    "通信协议",
+    "obsidian/本文档用于介绍传输协议及其开发.md",
+    "obsidian/windows.md",
     "obsidian/WSL.md",
-    "LIST/2023 年纪.md",
     "STM32/未命名 2.md",
-    "未命名",
     "STM32/未命名 1.md",
     "LIST",
-    "STM32/Arduino学习开发.md",
-    "STM32/FreeRTOS.md",
+    "Arduino开发/Arduino学习开发.md",
     "obsidian/Pasted image 20240307223836.png",
     "obsidian/Hass简介.md",
-    "obsidian/本文档用于介绍传输协议及其开发.md",
     "obsidian/记录遇到的error.md",
     "Arduino开发",
     "传输协议",
@@ -193,9 +198,7 @@
     "STM32/未命名.md",
     "HASS部署及UI开发",
     "STM32/Keil error.md",
-    "STM32/keil.md",
     "STM32/Pasted image 20240128185611 1.png",
-    "STM32/总览.md",
     "obsidian/通配符.md",
     "obsidian/clash.md",
     "obsidian/软路由.md",
@@ -205,16 +208,13 @@
     "obsidian/Shell.md",
     "开发语言学习/ARM汇编语言.md",
     "开发语言学习/HTML.md",
-    "开发语言学习/Python.md",
     "开发语言学习/Pasted image 20240123195751.png",
-    "开发语言学习/C语言.md",
     "STM32/Pasted image 20240131185951.png",
     "STM32/Pasted image 20240131185022.png",
     "STM32/Pasted image 20240131184953.png",
     "STM32/Pasted image 20240131184829.png",
     "STM32/Pasted image 20240131184749.png",
     "STM32/Pasted image 20240131184618.png",
-    "STM32/PIC.md",
     "STM32/Pasted image 20240131143429.png",
     "学习路线",
     "STM32",
