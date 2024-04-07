@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LIST/2023 年纪.md",
+                "file": "obsidian/windows.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LIST/2023 年纪.md",
+                "file": "obsidian/windows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LIST/2023 年纪.md",
+                "file": "obsidian/windows.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LIST/2023 年纪.md"
+                "file": "obsidian/windows.md"
               }
             }
           }
@@ -174,8 +174,9 @@
   },
   "active": "f9e3275f00c99644",
   "lastOpenFiles": [
-    "STM32/未命名 2.md",
+    "obsidian/WSL.md",
     "LIST/2023 年纪.md",
+    "STM32/未命名 2.md",
     "未命名",
     "STM32/未命名 1.md",
     "LIST",
@@ -215,7 +216,6 @@
     "STM32/Pasted image 20240131184618.png",
     "STM32/PIC.md",
     "STM32/Pasted image 20240131143429.png",
-    "学习路线/学习路线.md",
     "学习路线",
     "STM32",
     "科项研究",
