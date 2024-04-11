@@ -13,21 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "软件开发/小车控制上位机开发.md",
+                "file": "学习路线/学习路线.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0a7971a9381e8803",
+            "id": "13321b9fec9d6879",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "开发语言学习/C语言.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.5.12"
               }
             }
           }
@@ -98,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发语言学习/C语言.md",
+                "file": "学习路线/学习路线.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发语言学习/C语言.md",
+                "file": "学习路线/学习路线.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发语言学习/C语言.md"
+                "file": "学习路线/学习路线.md"
               }
             }
           }
@@ -160,38 +158,46 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "0a7971a9381e8803",
+  "active": "13321b9fec9d6879",
   "lastOpenFiles": [
+    "软件开发/小车控制上位机开发.md",
+    "开发语言学习/ARM汇编语言.md",
+    "软件开发/综述.md",
+    "Linux/通配符.md",
+    "HASS/Hass简介.md",
+    "HASS/Hass学习指南.md",
+    "HASS/config.net.md",
+    "obsidian/代理.md",
+    "Windows/计算机.md",
+    "Windows/WSL.md",
+    "obsidian/记录遇到的error.md",
+    "Windows/windows.md",
+    "Windows",
+    "obsidian/Visual S.md",
+    "obsidian/ISP下载.md",
+    "obsidian/iPad使用clash.md",
+    "Linux/LINUX.md",
+    "Linux/Shell.md",
+    "Linux/Pasted image 20240307223836.png",
+    "Linux",
+    "Linux/LINUX Kernal.md",
+    "开发语言学习/C语言.md",
     "通信协议/总述.md",
     "通信协议",
     "LIST/2023 年记.md",
     "LIST",
     "Arduino开发/Arduino学习开发.md",
     "Arduino开发",
-    "软件开发/综述.md",
-    "软件开发/小车控制上位机开发.md",
     "学习路线/学习路线.md",
     "软件开发",
-    "HASS/Hass学习指南.md",
-    "HASS/config.net.md",
     "obsidian/防火墙.md",
-    "obsidian/代理.md",
     "conflict-files-obsidian-git.md",
     "HASS",
     "STM32/FreeRTOS.md",
-    "STM32/GPIO.md",
-    "STM32/keil.md",
-    "STM32/Keil error.md",
     "STM32/Pasted image 20240128185611 1.png",
-    "obsidian/计算机.md",
-    "obsidian/本文档用于介绍传输协议及其开发.md",
-    "科项研究/卷积.md",
-    "科项研究/电磁地图的快速与可信重构技术研究.md",
-    "STM32/Arduino学习开发.md",
     "STM32/Pasted image 20240131184749.png",
     "STM32/Pasted image 20240131184618.png",
     "STM32/Pasted image 20240131143429.png",
-    "STM32/Pasted image 20240128193632.png",
-    "开发语言学习/ARM汇编语言.md"
+    "STM32/Pasted image 20240128193632.png"
   ]
 }
