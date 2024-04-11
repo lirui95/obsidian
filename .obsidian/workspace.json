@@ -1,31 +1,19 @@
 {
   "main": {
-    "id": "fccebc8ef9b883f2",
+    "id": "7449f84624b84567",
     "type": "split",
     "children": [
       {
-        "id": "099c88ca2c881f29",
+        "id": "dd2ef96aa026ca8e",
         "type": "tabs",
         "children": [
           {
-            "id": "1642e16f14afba2c",
+            "id": "c8c977921d791e10",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学习路线/学习路线.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6678e00f6f2b9892",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Windows/注册表.md",
+                "file": "开发语言学习/C语言.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d1658405bf661281",
+    "id": "6a1f660d72fd3b8b",
     "type": "split",
     "children": [
       {
-        "id": "a0228cf35e8f4b87",
+        "id": "5843a5c6fb3a070b",
         "type": "tabs",
         "children": [
           {
-            "id": "f9146f4170c7063d",
+            "id": "ac053bf70ed24f1c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -55,7 +43,7 @@
             }
           },
           {
-            "id": "89ce59047e5d6da9",
+            "id": "e24e17701a9d8ce8",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -70,7 +58,7 @@
             }
           },
           {
-            "id": "6e5289366e9ec533",
+            "id": "eaa7606ff7a8d70b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,23 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
-    "id": "14e6b6c9741f7534",
+    "id": "5f904336dcebac67",
     "type": "split",
     "children": [
       {
-        "id": "1c42a85c525f4e07",
+        "id": "fae0bdaa7aa87a3c",
         "type": "tabs",
         "children": [
           {
-            "id": "86429503aadf6562",
+            "id": "058a806902cae82e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学习路线/学习路线.md",
+                "file": "开发语言学习/C语言.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,19 +97,19 @@
             }
           },
           {
-            "id": "61937491f4f8f69d",
+            "id": "22b04ee13709c7b6",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "学习路线/学习路线.md",
+                "file": "开发语言学习/C语言.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "906b6258dc1d88f2",
+            "id": "53890b49c3011bb0",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -132,12 +120,12 @@
             }
           },
           {
-            "id": "14d80dea200c8854",
+            "id": "c9f5eb81f5462d61",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "学习路线/学习路线.md"
+                "file": "开发语言学习/C语言.md"
               }
             }
           }
@@ -145,7 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -159,49 +147,54 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "1642e16f14afba2c",
+  "active": "c8c977921d791e10",
   "lastOpenFiles": [
-    "Windows/注册表.md",
-    "conflict-files-obsidian-git.md",
-    "Windows/windows.md",
+    "Windows/计算机文件系统.md",
     "Windows/计算机.md",
-    "嵌入式Linux/概述：学习路线.md",
-    "嵌入式Linux",
-    "Windows系统/注册表.md",
-    "Windows系统/WSL.md",
-    "Windows系统/windows.md",
-    "Windows系统",
-    "STM32/ISP下载.md",
-    "LINUX系统/Shell.md",
-    "LINUX系统/通配符.md",
-    "LINUX系统/LINUX文件与目录管理.md",
-    "LINUX系统/LINUX.md",
-    "LINUX系统/LINUX Kernal.md",
-    "LINUX系统",
-    "软件开发/小车控制上位机开发.md",
-    "开发语言学习/ARM汇编语言.md",
-    "软件开发/综述.md",
-    "Linux/通配符.md",
-    "HASS/Hass简介.md",
-    "HASS/Hass学习指南.md",
-    "HASS/config.net.md",
-    "obsidian/代理.md",
+    "Windows/注册表.md",
     "Windows/WSL.md",
-    "obsidian/记录遇到的error.md",
+    "Windows/windows.md",
     "Windows",
-    "obsidian/Visual S.md",
-    "obsidian/ISP下载.md",
+    "Linux/通配符.md",
+    "Linux/Shell.md",
     "Linux/Pasted image 20240307223836.png",
+    "Linux/LINUX文件系统.md",
+    "Linux/LINUX文件与目录管理.md",
+    "Linux/LINUX.md",
+    "Linux/LINUX Kernal.md",
     "Linux",
-    "通信协议",
-    "LIST",
-    "Arduino开发",
+    "LINUX系统/Shell.md",
+    "LINUX系统/LINUX文件与目录管理.md",
+    "LINUX系统/LINUX Kernal.md",
+    "LINUX系统/LINUX.md",
+    "obsidian/代理.md",
+    "obsidian/计算机文件系统.md",
+    "STM32/ISP下载.md",
+    "Windows系统/注册表.md",
+    "obsidian/软路由.md",
+    "LINUX系统/通配符.md",
+    "HASS/config.net.md",
+    "HASS/Hass学习指南.md",
+    "HASS/Hass简介.md",
+    "Windows系统",
+    "LINUX系统",
+    "学习路线/学习路线.md",
+    "软件开发/综述.md",
+    "嵌入式Linux",
+    "开发语言学习/Pasted image 20240123195751.png",
     "软件开发",
     "HASS",
+    "通信协议",
+    "LIST",
+    "obsidian/Pasted image 20240307223836.png",
+    "Arduino开发",
     "STM32/Pasted image 20240128185611 1.png",
+    "STM32/Pasted image 20240131185951.png",
+    "STM32/Pasted image 20240131185022.png",
+    "STM32/Pasted image 20240131184953.png",
+    "STM32/Pasted image 20240131184829.png",
     "STM32/Pasted image 20240131184749.png",
     "STM32/Pasted image 20240131184618.png",
-    "STM32/Pasted image 20240131143429.png",
-    "STM32/Pasted image 20240128193632.png"
+    "未命名.canvas"
   ]
 }
