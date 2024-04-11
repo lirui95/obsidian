@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LINUX系统/Shell.md",
+                "file": "开发语言学习/C语言.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LINUX系统/Shell.md",
+                "file": "开发语言学习/C语言.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LINUX系统/Shell.md",
+                "file": "开发语言学习/C语言.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LINUX系统/Shell.md"
+                "file": "开发语言学习/C语言.md"
               }
             }
           }
@@ -149,12 +149,12 @@
   },
   "active": "c8c977921d791e10",
   "lastOpenFiles": [
+    "LINUX系统/Shell.md",
     "LINUX系统/LINUX文件与目录管理.md",
     "LINUX系统/LINUX Kernal.md",
     "LINUX系统/LINUX.md",
     "obsidian/代理.md",
     "obsidian/计算机文件系统.md",
-    "LINUX系统/Shell.md",
     "STM32/ISP下载.md",
     "Windows系统/注册表.md",
     "obsidian/软路由.md",
