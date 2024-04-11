@@ -11,8 +11,12 @@
             "id": "c8c977921d791e10",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "嵌入式Linux/概述：学习路线.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "嵌入式Linux/概述：学习路线.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "嵌入式Linux/概述：学习路线.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "嵌入式Linux/概述：学习路线.md"
+              }
             }
           }
         ]
@@ -141,11 +149,20 @@
   },
   "active": "c8c977921d791e10",
   "lastOpenFiles": [
+    "软件开发/综述.md",
+    "嵌入式Linux/概述：学习路线.md",
+    "嵌入式Linux",
+    "软件开发/小车控制上位机开发.md",
+    "开发语言学习/Python.md",
+    "开发语言学习/ARM汇编语言.md",
+    "开发语言学习/C语言.md",
+    "开发语言学习/HTML.md",
+    "开发语言学习/Pasted image 20240123195751.png",
+    "LIST/2023 年记.md",
+    "学习路线/学习路线.md",
     "conflict-files-obsidian-git.md",
     "STM32/FreeRTOS.md",
     "STM32/Keil error.md",
-    "软件开发/综述.md",
-    "软件开发/小车控制上位机开发.md",
     "软件开发",
     "科项研究/卷积.md",
     "STM32/位带操作.md",
@@ -160,24 +177,16 @@
     "STM32/GPIO.md",
     "STM32/总览.md",
     "通信协议/总述.md",
-    "LIST/2023 年记.md",
     "通信协议",
     "obsidian/windows.md",
     "obsidian/WSL.md",
-    "STM32/未命名 2.md",
-    "STM32/未命名 1.md",
     "LIST",
-    "Arduino开发/Arduino学习开发.md",
     "obsidian/Pasted image 20240307223836.png",
-    "obsidian/Hass简介.md",
-    "obsidian/记录遇到的error.md",
     "Arduino开发",
     "传输协议",
     "hass开发",
-    "obsidian/LINUX.md",
     "HASS部署及UI开发",
     "STM32/Pasted image 20240128185611 1.png",
-    "开发语言学习/Pasted image 20240123195751.png",
     "STM32/Pasted image 20240131185951.png",
     "STM32/Pasted image 20240131185022.png",
     "STM32/Pasted image 20240131184953.png",
@@ -186,7 +195,6 @@
     "STM32/Pasted image 20240131184618.png",
     "STM32/Pasted image 20240131143429.png",
     "学习路线",
-    "STM32",
     "未命名.canvas"
   ]
 }
