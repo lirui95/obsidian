@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LINUX系统/LINUX.md",
+                "file": "LINUX系统/Shell.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LINUX系统/LINUX.md",
+                "file": "LINUX系统/Shell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LINUX系统/LINUX.md",
+                "file": "LINUX系统/Shell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LINUX系统/LINUX.md"
+                "file": "LINUX系统/Shell.md"
               }
             }
           }
@@ -149,6 +149,9 @@
   },
   "active": "c8c977921d791e10",
   "lastOpenFiles": [
+    "LINUX系统/LINUX文件与目录管理.md",
+    "LINUX系统/LINUX Kernal.md",
+    "LINUX系统/LINUX.md",
     "obsidian/代理.md",
     "obsidian/计算机文件系统.md",
     "LINUX系统/Shell.md",
@@ -159,7 +162,6 @@
     "HASS/config.net.md",
     "HASS/Hass学习指南.md",
     "HASS/Hass简介.md",
-    "LINUX系统/LINUX.md",
     "Windows系统",
     "LINUX系统",
     "学习路线/学习路线.md",
@@ -178,8 +180,6 @@
     "STM32/Keil error.md",
     "软件开发",
     "科项研究/卷积.md",
-    "STM32/位带操作.md",
-    "STM32/Arduino学习.md",
     "HASS",
     "通信协议",
     "LIST",
