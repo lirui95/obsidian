@@ -11,9 +11,11 @@
             "id": "c8c977921d791e10",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "STM32/Pasted image 20240128185611 1.png"
+                "file": "LIST/2023 年记.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STM32/Pasted image 20240128185611 1.png",
+                "file": "LIST/2023 年记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "STM32/Pasted image 20240128185611 1.png",
+                "file": "LIST/2023 年记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STM32/Pasted image 20240128185611 1.png"
+                "file": "LIST/2023 年记.md"
               }
             }
           }
@@ -147,6 +149,7 @@
   },
   "active": "c8c977921d791e10",
   "lastOpenFiles": [
+    "STM32/Pasted image 20240128185611 1.png",
     "开发语言学习/ARM汇编语言.md",
     "开发语言学习/C语言.md",
     "Windows/计算机文件系统.md",
@@ -175,7 +178,6 @@
     "LINUX系统/通配符.md",
     "HASS/config.net.md",
     "HASS/Hass学习指南.md",
-    "HASS/Hass简介.md",
     "Windows系统",
     "LINUX系统",
     "嵌入式Linux",
@@ -186,7 +188,6 @@
     "LIST",
     "obsidian/Pasted image 20240307223836.png",
     "Arduino开发",
-    "STM32/Pasted image 20240128185611 1.png",
     "STM32/Pasted image 20240131185951.png",
     "STM32/Pasted image 20240131185022.png",
     "STM32/Pasted image 20240131184953.png",
