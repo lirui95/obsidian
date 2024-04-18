@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LIST/2023 年记.md",
+                "file": "物理竞赛/半导体光纤测温原理及实现.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LIST/2023 年记.md",
+                "file": "物理竞赛/半导体光纤测温原理及实现.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LIST/2023 年记.md",
+                "file": "物理竞赛/半导体光纤测温原理及实现.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LIST/2023 年记.md"
+                "file": "物理竞赛/半导体光纤测温原理及实现.md"
               }
             }
           }
@@ -149,6 +149,9 @@
   },
   "active": "c8c977921d791e10",
   "lastOpenFiles": [
+    "LIST/2023 年记.md",
+    "物理竞赛/半导体光纤测温原理及实现.md",
+    "物理竞赛",
     "STM32/sdk介绍.md",
     "STM32/API.md",
     "STM32/Pasted image 20240128185611 1.png",
@@ -177,8 +180,6 @@
     "STM32/ISP下载.md",
     "Windows系统/注册表.md",
     "obsidian/软路由.md",
-    "LINUX系统/通配符.md",
-    "HASS/config.net.md",
     "Windows系统",
     "LINUX系统",
     "嵌入式Linux",
@@ -188,7 +189,6 @@
     "通信协议",
     "LIST",
     "obsidian/Pasted image 20240307223836.png",
-    "Arduino开发",
     "STM32/Pasted image 20240131185951.png",
     "STM32/Pasted image 20240131185022.png",
     "STM32/Pasted image 20240131184953.png",
