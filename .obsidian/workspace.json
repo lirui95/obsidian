@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STM32/sdk介绍.md",
+                "file": "Windows/Hyper-V网络架构.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STM32/sdk介绍.md",
+                "file": "Windows/Hyper-V网络架构.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "STM32/sdk介绍.md",
+                "file": "Windows/Hyper-V网络架构.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STM32/sdk介绍.md"
+                "file": "Windows/Hyper-V网络架构.md"
               }
             }
           }
@@ -162,10 +162,13 @@
   },
   "active": "1ad263af45c64dbe",
   "lastOpenFiles": [
+    "Windows/WSL.md",
+    "Windows/Hyper-V网络架构.md",
+    "Windows/WSL 1.md",
+    "STM32/sdk介绍.md",
     "物理竞赛/半导体光纤测温原理及实现.md",
     "物理竞赛",
     "STM32/API.md",
-    "STM32/sdk介绍.md",
     "STM32/位带操作.md",
     "LIST/2023 年记.md",
     "STM32/Pasted image 20240128185611 1.png",
@@ -174,7 +177,6 @@
     "Windows/计算机文件系统.md",
     "Windows/计算机.md",
     "Windows/注册表.md",
-    "Windows/WSL.md",
     "Windows/windows.md",
     "Windows",
     "Linux/通配符.md",
@@ -191,8 +193,6 @@
     "LINUX系统/LINUX.md",
     "obsidian/代理.md",
     "obsidian/计算机文件系统.md",
-    "STM32/ISP下载.md",
-    "Windows系统/注册表.md",
     "Windows系统",
     "LINUX系统",
     "嵌入式Linux",
