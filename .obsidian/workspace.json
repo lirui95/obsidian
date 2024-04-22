@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "物理竞赛/半导体光纤测温原理及实现.md",
+                "file": "科项研究/旅行.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "物理竞赛/半导体光纤测温原理及实现.md",
+                "file": "科项研究/旅行.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "物理竞赛/半导体光纤测温原理及实现.md",
+                "file": "科项研究/旅行.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "物理竞赛/半导体光纤测温原理及实现.md"
+                "file": "科项研究/旅行.md"
               }
             }
           }
@@ -149,6 +149,8 @@
   },
   "active": "c8c977921d791e10",
   "lastOpenFiles": [
+    "物理竞赛/半导体光纤测温原理及实现.md",
+    "科项研究/旅行.md",
     "STM32/sdk介绍.md",
     "LINUX系统/Shell.md",
     "LINUX系统/LINUX文件与目录管理.md",
@@ -169,7 +171,6 @@
     "NRF开发_协议栈",
     "Windows/WSL.md",
     "Windows/WSL 1.md",
-    "物理竞赛/半导体光纤测温原理及实现.md",
     "物理竞赛",
     "STM32/API.md",
     "STM32/位带操作.md",
@@ -177,7 +178,6 @@
     "STM32/Pasted image 20240128185611 1.png",
     "开发语言学习/ARM汇编语言.md",
     "开发语言学习/C语言.md",
-    "Windows/计算机文件系统.md",
     "Windows",
     "Linux/Pasted image 20240307223836.png",
     "Linux",
