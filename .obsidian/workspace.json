@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Windows/注册表.md",
+                "file": "CCS开发/SDK介绍与结构.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Windows/注册表.md",
+                "file": "CCS开发/SDK介绍与结构.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Windows/注册表.md",
+                "file": "CCS开发/SDK介绍与结构.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Windows/注册表.md"
+                "file": "CCS开发/SDK介绍与结构.md"
               }
             }
           }
@@ -162,6 +162,9 @@
   },
   "active": "1ad263af45c64dbe",
   "lastOpenFiles": [
+    "Windows/注册表.md",
+    "CCS开发/SDK介绍与结构.md",
+    "CCS开发",
     "Windows/Hyper-V网络架构.md",
     "NRF开发_协议栈/协议栈.md",
     "NRF开发_协议栈",
@@ -178,7 +181,6 @@
     "开发语言学习/C语言.md",
     "Windows/计算机文件系统.md",
     "Windows/计算机.md",
-    "Windows/注册表.md",
     "Windows/windows.md",
     "Windows",
     "Linux/通配符.md",
@@ -193,14 +195,12 @@
     "LINUX系统/LINUX文件与目录管理.md",
     "LINUX系统/LINUX Kernal.md",
     "LINUX系统/LINUX.md",
-    "obsidian/代理.md",
     "Windows系统",
     "LINUX系统",
     "嵌入式Linux",
     "开发语言学习/Pasted image 20240123195751.png",
     "软件开发",
     "HASS",
-    "通信协议",
     "obsidian/Pasted image 20240307223836.png",
     "STM32/Pasted image 20240131185951.png",
     "STM32/Pasted image 20240131185022.png",
