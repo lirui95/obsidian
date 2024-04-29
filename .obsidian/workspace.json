@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CCS开发/SDK介绍与结构.md",
+                "file": "CCS开发/五一校赛.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CCS开发/SDK介绍与结构.md",
+                "file": "CCS开发/五一校赛.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CCS开发/SDK介绍与结构.md",
+                "file": "CCS开发/五一校赛.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CCS开发/SDK介绍与结构.md"
+                "file": "CCS开发/五一校赛.md"
               }
             }
           }
@@ -162,8 +162,10 @@
   },
   "active": "1ad263af45c64dbe",
   "lastOpenFiles": [
-    "Windows/注册表.md",
+    "CCS开发/Pasted image 20240429135801.png",
     "CCS开发/SDK介绍与结构.md",
+    "CCS开发/五一校赛.md",
+    "Windows/注册表.md",
     "CCS开发",
     "Windows/Hyper-V网络架构.md",
     "NRF开发_协议栈/协议栈.md",
@@ -193,8 +195,6 @@
     "Linux",
     "LINUX系统/Shell.md",
     "LINUX系统/LINUX文件与目录管理.md",
-    "LINUX系统/LINUX Kernal.md",
-    "LINUX系统/LINUX.md",
     "Windows系统",
     "LINUX系统",
     "嵌入式Linux",
