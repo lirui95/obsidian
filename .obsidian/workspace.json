@@ -30,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f50cbb2df4e9a4f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CCS开发/五一校赛.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "902c7a3b88a656dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CCS开发/五一校赛.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -160,8 +184,10 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "1ad263af45c64dbe",
+  "active": "902c7a3b88a656dc",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "CCS开发/五一校赛.md",
     "科项研究/旅行.md",
     "科项研究/Pasted image 20240422213936.jpg",
     "科项研究/Pasted image 20240422213828.jpg",
@@ -172,7 +198,6 @@
     "科项研究/100g0z000000nd29yD334_C_670_376_Q70.webp",
     "CCS开发/Pasted image 20240429135801.png",
     "CCS开发/SDK介绍与结构.md",
-    "CCS开发/五一校赛.md",
     "Windows/注册表.md",
     "CCS开发",
     "Windows/Hyper-V网络架构.md",
@@ -202,7 +227,6 @@
     "Linux/LINUX Kernal.md",
     "Linux",
     "LINUX系统/Shell.md",
-    "LINUX系统/LINUX文件与目录管理.md",
     "Windows系统",
     "LINUX系统",
     "嵌入式Linux",
