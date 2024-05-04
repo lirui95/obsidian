@@ -42,21 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "902c7a3b88a656dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CCS开发/驱动库移植.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CCS开发/驱动库移植.md",
+                "file": "CCS开发/五一校赛.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CCS开发/驱动库移植.md",
+                "file": "CCS开发/五一校赛.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CCS开发/驱动库移植.md"
+                "file": "CCS开发/五一校赛.md"
               }
             }
           }
@@ -184,10 +172,10 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "902c7a3b88a656dc",
+  "active": "f50cbb2df4e9a4f7",
   "lastOpenFiles": [
-    "CCS开发/五一校赛.md",
     "CCS开发/驱动库移植.md",
+    "CCS开发/五一校赛.md",
     "conflict-files-obsidian-git.md",
     "科项研究/旅行.md",
     "科项研究/Pasted image 20240422213936.jpg",
