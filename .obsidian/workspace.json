@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发语言学习/Python.md",
+                "file": "STM32/STM32介绍.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#MicroLIB（微库）",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发语言学习/Python.md",
+                "file": "STM32/STM32介绍.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发语言学习/Python.md",
+                "file": "STM32/STM32介绍.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发语言学习/Python.md"
+                "file": "STM32/STM32介绍.md"
               }
             }
           }
@@ -174,6 +175,10 @@
   },
   "active": "f50cbb2df4e9a4f7",
   "lastOpenFiles": [
+    "STM32/Printf重定向.md",
+    "STM32/STM32介绍.md",
+    "STM32/Pasted image 20240507170231.png",
+    "开发语言学习/Python.md",
     "CCS开发/五一校赛.md",
     "CCS开发/驱动库移植.md",
     "conflict-files-obsidian-git.md",
@@ -209,11 +214,7 @@
     "Windows",
     "Linux/通配符.md",
     "Linux/Shell.md",
-    "Linux/Pasted image 20240307223836.png",
     "Linux/LINUX文件系统.md",
-    "Linux/LINUX文件与目录管理.md",
-    "Linux/LINUX.md",
-    "Linux/LINUX Kernal.md",
     "Linux",
     "Windows系统",
     "LINUX系统",
