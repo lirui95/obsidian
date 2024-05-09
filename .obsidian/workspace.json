@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STM32/sdk介绍.md",
+                "file": "LIST/2023 年记.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,8 +85,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STM32/sdk介绍.md",
+                "file": "LIST/2023 年记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "STM32/sdk介绍.md",
+                "file": "LIST/2023 年记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STM32/sdk介绍.md"
+                "file": "LIST/2023 年记.md"
               }
             }
           }
@@ -170,6 +169,8 @@
   },
   "active": "c8c977921d791e10",
   "lastOpenFiles": [
+    "NRF开发_协议栈/协议栈.md",
+    "STM32/sdk介绍.md",
     "CCS开发/五一校赛.md",
     "软件开发/综述.md",
     "物理竞赛/半导体光纤测温原理及实现.md",
@@ -192,11 +193,9 @@
     "Windows/注册表.md",
     "CCS开发",
     "Windows/Hyper-V网络架构.md",
-    "NRF开发_协议栈/协议栈.md",
     "NRF开发_协议栈",
     "Windows/WSL.md",
     "Windows/WSL 1.md",
-    "STM32/sdk介绍.md",
     "物理竞赛",
     "STM32/API.md",
     "STM32/位带操作.md",
