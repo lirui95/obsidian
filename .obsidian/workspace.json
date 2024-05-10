@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LIST/2023 年记.md",
+                "file": "STM32/UART重定向.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LIST/2023 年记.md",
+                "file": "STM32/UART重定向.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LIST/2023 年记.md",
+                "file": "STM32/UART重定向.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LIST/2023 年记.md"
+                "file": "STM32/UART重定向.md"
               }
             }
           }
@@ -169,12 +169,14 @@
   },
   "active": "c8c977921d791e10",
   "lastOpenFiles": [
-    "NRF开发_协议栈/协议栈.md",
     "STM32/sdk介绍.md",
+    "STM32/STM32微库.md",
+    "STM32/UART重定向.md",
+    "LIST/2023 年记.md",
+    "NRF开发_协议栈/协议栈.md",
     "CCS开发/五一校赛.md",
     "软件开发/综述.md",
     "物理竞赛/半导体光纤测温原理及实现.md",
-    "STM32/STM32介绍.md",
     "STM32/Printf重定向.md",
     "STM32/Pasted image 20240507170231.png",
     "开发语言学习/Python.md",
@@ -199,7 +201,6 @@
     "物理竞赛",
     "STM32/API.md",
     "STM32/位带操作.md",
-    "LIST/2023 年记.md",
     "STM32/Pasted image 20240128185611 1.png",
     "开发语言学习/ARM汇编语言.md",
     "开发语言学习/C语言.md",
@@ -208,7 +209,6 @@
     "Windows/windows.md",
     "Windows",
     "Linux/通配符.md",
-    "Linux/Shell.md",
     "Linux",
     "Windows系统",
     "LINUX系统",
