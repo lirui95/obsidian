@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STM32/GPIO.md",
+                "file": "STM32/UART重定向.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STM32/GPIO.md",
+                "file": "STM32/UART重定向.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "STM32/GPIO.md",
+                "file": "STM32/UART重定向.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STM32/GPIO.md"
+                "file": "STM32/UART重定向.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "f50cbb2df4e9a4f7",
   "lastOpenFiles": [
+    "STM32/GPIO.md",
     "NRF开发_协议栈/NRF基础代码.md",
     "未命名.canvas",
     "STM32/UART重定向.md",
