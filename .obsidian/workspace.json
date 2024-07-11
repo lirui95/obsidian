@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4c0f181803267fbd",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,7 +158,7 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "f50cbb2df4e9a4f7",
+  "active": "4c0f181803267fbd",
   "lastOpenFiles": [
     "STM32/GPIO.md",
     "NRF开发_协议栈/NRF基础代码.md",
