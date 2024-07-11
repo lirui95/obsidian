@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STM32/UART重定向.md",
+                "file": "STM32/SPI通信协议.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "4c0f181803267fbd",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.5"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STM32/UART重定向.md",
+                "file": "STM32/SPI通信协议.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "STM32/UART重定向.md",
+                "file": "STM32/SPI通信协议.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STM32/UART重定向.md"
+                "file": "STM32/SPI通信协议.md"
               }
             }
           }
@@ -158,12 +147,13 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "4c0f181803267fbd",
+  "active": "f50cbb2df4e9a4f7",
   "lastOpenFiles": [
+    "STM32/UART重定向.md",
+    "STM32/SPI通信协议.md",
     "STM32/GPIO.md",
     "NRF开发_协议栈/NRF基础代码.md",
     "未命名.canvas",
-    "STM32/UART重定向.md",
     "STM32/sdk介绍.md",
     "STM32/STM32微库.md",
     "LIST/2023 年记.md",
@@ -199,7 +189,6 @@
     "开发语言学习/ARM汇编语言.md",
     "开发语言学习/C语言.md",
     "Windows/计算机文件系统.md",
-    "Windows/计算机.md",
     "Windows",
     "Linux",
     "Windows系统",
