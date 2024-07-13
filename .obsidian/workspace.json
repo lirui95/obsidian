@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STM32/SPI通信协议.md",
+                "file": "STM32/STM32开启FPU.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STM32/SPI通信协议.md",
+                "file": "STM32/STM32开启FPU.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "STM32/SPI通信协议.md",
+                "file": "STM32/STM32开启FPU.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STM32/SPI通信协议.md"
+                "file": "STM32/STM32开启FPU.md"
               }
             }
           }
@@ -149,8 +149,9 @@
   },
   "active": "f50cbb2df4e9a4f7",
   "lastOpenFiles": [
-    "STM32/UART重定向.md",
     "STM32/SPI通信协议.md",
+    "STM32/STM32开启FPU.md",
+    "STM32/UART重定向.md",
     "STM32/GPIO.md",
     "NRF开发_协议栈/NRF基础代码.md",
     "未命名.canvas",
@@ -188,7 +189,6 @@
     "STM32/Pasted image 20240128185611 1.png",
     "开发语言学习/ARM汇编语言.md",
     "开发语言学习/C语言.md",
-    "Windows/计算机文件系统.md",
     "Windows",
     "Linux",
     "Windows系统",
